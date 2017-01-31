@@ -70,9 +70,6 @@ apm install minimap
 apm install platformio-ide-terminal
 apm install react
 
-echo Linking to alfred
-brew cask alfred link
-
 echo Display all installed by brew
 brew list
 
