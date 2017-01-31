@@ -51,7 +51,7 @@ brew cask install --appdir="~/Applications" spotify
 brew cask install --appdir="~/Applications" flux
 brew cask install --appdir="~/Applications" atom
 brew cask install --appdir="~/Applications" git
-brew cask install --appdir="~/Applications" slack
+brew cask install --appdir="~/Applications" franz
 
 ##
 echo ATOM PLUGINS
